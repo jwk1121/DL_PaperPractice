@@ -4,10 +4,10 @@
 
 ## 논문
 
-1. GAN(generative adversarial nets)
+1. GAN(Generative adversarial nets)
 
 2. FCN(Fully Connected Network)
 
 3. U-net
 
-4. DCGAN
+4. DCGAN(Deep convolution generative adversarial nets)
