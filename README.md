@@ -11,3 +11,11 @@
 3. U-net
 
 4. DCGAN(Deep convolution generative adversarial nets)
+
+## github 원격 업로드
+
+- git init
+- git remote add origin [github 주소]
+- git add .
+- git commit -m "message"
+- git push -u origin master
