@@ -15,7 +15,7 @@
 ## github 원격 업로드
 
 - git init
-- git remote add origin [github 주소]
+- git remote add origin https://github.com/jwk1121/DL_PaperPractice.git
 - git add .
 - git commit -m "message"
 - git push -u origin master
